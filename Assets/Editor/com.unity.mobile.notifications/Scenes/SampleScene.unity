@@ -611,7 +611,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   menu: {fileID: 1991144132}
-  slice: {fileID: 533818793}
+  sling: {fileID: 533818793}
   cam: {fileID: 86270082}
   rb: {fileID: 3997330512430659562}
   maxDrag: 40
